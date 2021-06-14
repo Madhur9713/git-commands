@@ -20,4 +20,8 @@
 
 10. **git branch** Lists out all the branches of current repository.
 
-11.
+11. **git checkout <branch name>** Navigate to the specified branch.
+
+12. **git pull** Pulls the changes from remote repository to local repository.
+
+13. **git diff <commit_id 1> <commit_id 2> Tells the difference between the two commits.
