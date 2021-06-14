@@ -24,4 +24,4 @@
 
 12. **git pull** Pulls the changes from remote repository to local repository.
 
-13. **git diff <commit_id 1> <commit_id 2> Tells the difference between the two commits.
+13. **git diff <commit_id 1> <commit_id 2>** Tells the difference between the two commits.
