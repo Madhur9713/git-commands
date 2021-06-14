@@ -1,3 +1,3 @@
 # Github Commands
 
-..*  **git init** Initializes git repository.
+1.  **git init** Initializes git repository.
